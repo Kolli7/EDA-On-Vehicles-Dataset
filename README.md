@@ -1,4 +1,4 @@
-# Price-Prediction
+# EDA-On-Vehicles-Dataset
 
 The following repository contains data and code used for the project.
 The project is about predicting the prices of different vehicles using their features.
